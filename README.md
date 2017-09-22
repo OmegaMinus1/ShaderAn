@@ -1,3 +1,3 @@
 ShaderAn
 
-- Shader composition tool for Vulkan
+- Shader composition tool for WebGL
